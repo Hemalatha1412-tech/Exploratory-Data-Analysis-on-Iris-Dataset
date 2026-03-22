@@ -88,7 +88,10 @@ sns.load_dataset('iris')
 * Pipeline approach improves code modularity and reproducibility
 
 ---
+## 📸 Visualizations
 
+![Pairplot](images/pairplot.png)
+![Model Comparison](images/model.png)
 ## 📁 Project Structure
 
 ```
