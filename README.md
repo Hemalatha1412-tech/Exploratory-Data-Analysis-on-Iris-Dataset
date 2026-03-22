@@ -97,7 +97,7 @@ sns.load_dataset('iris')
 ```
 iris-eda-ml-pipeline/
 │
-├── Exploratory Data Analysis on Iris Dataset.ipynb   # Main notebook
+├── iris_ml_pipeline.ipynb   # Main notebook
 ├── README.md              # Documentation
 ├── requirements.txt       # Dependencies
 ```
